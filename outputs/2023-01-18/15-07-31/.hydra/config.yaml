@@ -1,0 +1,3 @@
+img_path: ./figs/zidane.jpg
+repo: ultralytics/yolov5
+model_name: yolov5s

@@ -1,0 +1,3 @@
+img_path: ./figs/zidane.jpg
+repo: ./yolov5
+model_name: yolov5s
